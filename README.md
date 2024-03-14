@@ -1,5 +1,7 @@
 # OnlyTV-Library
 
+基于 [OnlyTV For TV](https://github.com/ludoven/OnlyTV-For-TV) 项目开发。
+
 ## 资源和版本
 
 - 体验: [下载链接](https://ludoven.github.io/OnlyTV-Library/OnlyTV-1.0.0.apk)
